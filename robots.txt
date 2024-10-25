@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+User-agent: Googlebot
+User-agent: Slurp
+Allow: /
+
+User-agent: Googlebot-Image
+Allow: /
+
+User-agent: Googlebot-Mobile
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+Sitemap: https://gasnow-site.github.io/gamestalks/sitemap.xml
